@@ -27,7 +27,7 @@ margin: 10px;
 .three-div{
 
     background-color: skyblue;
-    
+
     margin: 10px;
 }
 
@@ -47,15 +47,15 @@ margin: 10px;
 }
 .sam-one{
 
-    background-color: skyblue;
+    background-color:green;
     margin: 10px;
 }
 .joe-done{
-    background-color:cornflowerblue;
+    background-color:rgb(244, 96, 224);
     margin: 10px;
 }
 .sulek{
-    background-color: rgb(244, 96, 224;
+    background-color: rgb(244, 96, 224);
     margin: 10px;
 }
 .cbum{
@@ -66,5 +66,18 @@ margin: 10px;
 .ramon{
 
     background-color:  rgb(244, 96, 224) ;
+    margin: 10px;
+}
+.razor{
+    background-color:rgb(244, 96, 224) ;
+    margin: 10px;
+}
+.edge{
+
+    background-color:   rgb(244, 96, 224);
+    margin: 10px;
+}
+.noam{
+    background-color:rgb(244, 96, 224);
     margin: 10px;
 }
