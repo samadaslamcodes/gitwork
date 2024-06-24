@@ -1,0 +1,70 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+background-color: gray;
+
+}
+.bg-white{
+    background-color: #ffffff;
+    margin: 50px;
+
+}
+
+.one-div{
+    background-color: skyblue;
+    margin: 10px;
+   padding:0px;
+}
+
+.two-div{
+background-color:skyblue  ;
+margin: 10px;
+
+}
+.three-div{
+
+    background-color: skyblue;
+    
+    margin: 10px;
+}
+
+.fahad-one{
+
+    background-color: skyblue;
+    margin: 10px;
+}
+.usama-one{
+    background-color: skyblue;
+    margin: 10px;
+}
+.saad-one{
+
+    background-color: skyblue;
+    margin: 10px;
+}
+.sam-one{
+
+    background-color: skyblue;
+    margin: 10px;
+}
+.joe-done{
+    background-color:cornflowerblue;
+    margin: 10px;
+}
+.sulek{
+    background-color: rgb(244, 96, 224;
+    margin: 10px;
+}
+.cbum{
+
+    background-color: rgb(244, 96, 224);
+    margin: 10px;
+}
+.ramon{
+
+    background-color:  rgb(244, 96, 224) ;
+    margin: 10px;
+}
